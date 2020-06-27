@@ -16,20 +16,6 @@
       "pop3": "222",
       "emails" : []
     }
-  ],
-
-
-  "tags": [
-    {
-      "id": 1,
-      "name": "tag1",
-      "emailT": []
-    },
-    {
-      "id": 2,
-      "name": "tag2",
-      "emailT": []
-    }
   ]
 
 }
