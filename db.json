@@ -5,16 +5,14 @@
       "smtp": "111",
       "username": "Marko",
       "password": "123",
-      "pop3": "111",
-      "email": []
+      "pop3": "111"
     },
     {
       "id": 2,
       "smtp": "222",
       "username": "Sike",
       "password": "123",
-      "pop3": "222",
-      "email": []
+      "pop3": "222"
     }
   ]
 }
