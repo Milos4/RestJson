@@ -6,7 +6,7 @@
       "username": "Marko",
       "password": "123",
       "pop3": "111",
-      "emails" : []
+      "email" : []
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "username": "Sike",
       "password": "123",
       "pop3": "222",
-      "emails" : []
+      "email" : []
     }
   ]
   ,
