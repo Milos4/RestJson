@@ -30,5 +30,51 @@
       "emailT": []
     }
   ]
+  ,
+  
+  "contacts" : [
+    {
+      "id" : 1,
+      "name" : "Marko",
+      "last" : "Markovic",
+      "display" : 1,
+      "email" : "marko@gmail.com",
+      "format" : "html",
+      "photo" : null,
+      "from" : [],
+      "to" : [],
+      "cc" : [],
+      "bcc" : []
+    },
+    {
+      "id" : 2,
+      "name" : "Nikola",
+      "last" : "Nikolic",
+      "display" : 2,
+      "email" : "nikola@gmail.com",
+      "format" : "html",
+      "photo" : null,
+      "from" : [],
+      "to" : [],
+      "cc" : [],
+      "bcc" : []
+    },
+    {
+      "id" : 3,
+      "name" : "Darko",
+      "last" : "Darkovic",
+      "display" : 3,
+      "email" : "darko@gmail.com",
+      "format" : "html",
+      "photo" : null,
+      "from" : [],
+      "to" : [],
+      "cc" : [],
+      "bcc" : []
+    }
+  
+  
+  
+  ]
 
 }
