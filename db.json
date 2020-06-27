@@ -18,4 +18,18 @@
     }
   ]
 
+
+  "tags": [
+    {
+      "idT": 1,
+      "name": "tag1",
+      "emailT": []
+    },
+    {
+      "idT": 2,
+      "name": "tag2",
+      "emailT": []
+    }
+  ]
+
 }
