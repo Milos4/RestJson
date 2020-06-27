@@ -18,18 +18,3 @@
     }
   ]}
 
-
-{
-  "tags":[
-    {
-      "idT": 1,
-      "name" : "tag1",
-      "emailsT":[]
-    },
-     {
-      "idT": 2,
-      "name" : "tag2",
-      "emailsT":[]
-    }
-  ]
-}
