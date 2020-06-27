@@ -1,5 +1,5 @@
-{
-  "accounts"  [
+"aaaa" : {
+  "accounts" : [
     {
       "id": 1,
       "smtp": "111",
@@ -19,7 +19,7 @@
   ]
 
 
-  "tags" [
+  "tags" : [
     {
       "idT": 1,
       "name": "tag1",
