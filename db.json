@@ -20,14 +20,14 @@
   ,
   "tags": [
     {
-      "idT": 1,
+      "id": 1,
       "name": "tag1",
-      "emailT": []
+      "email": []
     },
     {
-      "idT": 2,
+      "id": 2,
       "name": "tag2",
-      "emailT": []
+      "email": []
     }
   ]
   ,
