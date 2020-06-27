@@ -17,8 +17,8 @@
       "emails" : []
     }
   ]
-  
-  "tags" : [
+  ,
+  "tags": [
     {
       "idT": 1,
       "name": "tag1",
