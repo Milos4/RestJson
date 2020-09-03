@@ -79,18 +79,18 @@
   ]
   "emails" : [
   {
-  "id" = 1,
-  "from" = 1,
-  "to" = [],
-  "cc" = [],
-  "bcc" = [],
-  "subject" = "MILANEE",
-  "content" = "konjuuu",
-  "date" = "3.9.2020",
-  "folder" = null,
-  "account" = 1,
-  "tags" = [],
-  "attachment" = []
+  "id" : 1,
+  "from" : 1,
+  "to" : [],
+  "cc" : [],
+  "bcc" : [],
+  "subject" : "MILANEE",
+  "content" : "konjuuu",
+  "date" : "3.9.2020",
+  "folder" : null,
+  "account" : 1,
+  "tags" : [],
+  "attachment" : []
 }  
   ]
 
