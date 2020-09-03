@@ -80,7 +80,19 @@
   "emails" : [
   {
   "id" : 1,
-  "from" : 1,
+  "from" :  {
+      "id" : 1,
+      "name" : "Marko",
+      "last" : "Markovic",
+      "display" : 1,
+      "email" : "marko@gmail.com",
+      "format" : "html",
+      "photo" : null,
+      "from" : [],
+      "to" : [],
+      "cc" : [],
+      "bcc" : []
+    },
   "to" : [],
   "cc" : [],
   "bcc" : [],
