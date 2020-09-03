@@ -100,7 +100,14 @@
   "content" : "konjuuu",
   "date" : "3.9.2020",
   "folder" : null,
-  "account" : 1,
+  "account" : {
+      "id": 1,
+      "smtp": "111",
+      "username": "Marko",
+      "password": "123",
+      "pop3": "111",
+      "email" : []
+    },
   "tags" : [],
   "attachments" : []
 }  
