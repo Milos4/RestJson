@@ -122,6 +122,19 @@
     {"id" : 2,
       "path" : "bbb"}
   ]
+  ,
+  
+  "folder" : [
+    {"id": 1,
+     "name" : "Poruke"
+    },
+    {"id": 2,
+     "name" : "Bitno"
+    },
+    {"id": 3,
+     "name" : "Poslato"
+    }
+  ]
   
 
 }
