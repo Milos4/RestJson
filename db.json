@@ -21,11 +21,51 @@
   "folders": [
     {
       "id": 1,
-      "name": "Poruke"
+      "name": "Poruke",
+      "emails":[
+        {
+  "id" : 1,
+  "from" :  {
+      "id" : 1,
+      "name" : "Marko",
+      "last" : "Markovic",
+      "display" : 1,
+      "email" : "marko@gmail.com",
+      "format" : "html",
+      "photo" : null,
+      "from" : [],
+      "to" : [],
+      "cc" : [],
+      "bcc" : []
+    },
+  "to" : [],
+  "cc" : [],
+  "bcc" : [],
+  "subject" : "MILANEE",
+  "content" : "konjuuu",
+  "date" : "3.9.2020",
+  "folder" : null,
+  "account" : {
+      "id": 1,
+      "smtp": "111",
+      "username": "Marko",
+      "password": "123",
+      "pop3": "111",
+      "email" : []
+    },
+  "tags" : [],
+  "attachments" : []
+}  
+      ],
+      "folders":[],
+      "rules" :  []
     },
     {
       "id": 2,
-      "name": "Poslato"
+      "name": "Poslato",
+       "emails":[],
+      "folders":[],
+      "rules" :  []
     }
   ]
   ,
