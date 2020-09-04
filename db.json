@@ -118,7 +118,9 @@
   
   "photo" : [
     {"id" : 1,
-      "path" : "aaa"}
+      "path" : "aaa"},
+    {"id" : 2,
+      "path" : "bbb"}
   ]
   
 
