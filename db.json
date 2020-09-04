@@ -18,17 +18,14 @@
     }
   ]
   ,
-  "tags": [
+  "folders": [
     {
       "id": 1,
-      "name": "tag1",
-      "email": []
+      "name": "Poruke"
     },
     {
       "id": 2,
-      "name": "tag2",
-      "email": []
-      
+      "name": "Poslato"
     }
   ]
   ,
