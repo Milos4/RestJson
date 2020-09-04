@@ -41,7 +41,8 @@
       "display" : 1,
       "email" : "marko@gmail.com",
       "format" : "html",
-      "photo" : null,
+      "photo" :  {"id" : 1,
+                  "path" : "aaa"},
       "from" : [],
       "to" : [],
       "cc" : [],
@@ -54,7 +55,8 @@
       "display" : 2,
       "email" : "nikola@gmail.com",
       "format" : "html",
-      "photo" : null,
+      "photo" :  {"id" : 1,
+                  "path" : "aaa"},
       "from" : [],
       "to" : [],
       "cc" : [],
@@ -67,7 +69,8 @@
       "display" : 3,
       "email" : "darko@gmail.com",
       "format" : "html",
-      "photo" : null,
+      "photo" :  {"id" : 1,
+                  "path" : "aaa"},
       "from" : [],
       "to" : [],
       "cc" : [],
@@ -114,9 +117,7 @@
   ],
   
   "photo" : [
-    {"id" : 1,
-    "path" : "aaa"
-    }
+   v
   ]
   
 
