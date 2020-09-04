@@ -111,6 +111,13 @@
   "tags" : [],
   "attachments" : []
 }  
+  ],
+  
+  "photo" : [
+    {"id" : 1,
+    "path" : "aaa"
+    }
   ]
+  
 
 }
